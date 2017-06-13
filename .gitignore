@@ -1,0 +1,14 @@
+.idea
+.classpath
+.project
+.settings
+target
+node_modules
+
+/dist
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-error.log

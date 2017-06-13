@@ -1,0 +1,15 @@
+{
+  "name": "svg2au-loader",
+  "version": "1.0.1",
+  "description": "Convert SVG to Aurelia Component ( Custom Element )",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XuJinNet/svg2au-loader.git"
+  },
+  "author": "XuJinNet",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
